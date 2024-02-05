@@ -1,3 +1,0 @@
-Hi
-Test3.txt s new test file.
-New line is added.line-3.

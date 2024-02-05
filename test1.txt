@@ -1,2 +1,4 @@
 Hi
 Welcome to Self paced Git course
+Line 3 added
+line 4 added
